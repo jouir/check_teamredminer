@@ -35,7 +35,7 @@ command[check_teamredminer]=/opt/check_teamredminer/check_teamredminer.py --hash
 # Limitations
 
 This check has been tested on **GPUs** mining **ethash** algorithm.
-If you need this check to support more type of hardware mining more algorithms, feel free to contribue.
+If you need this check to support more type of hardware mining more algorithms, feel free to contribute.
 
 # Contributing
 
